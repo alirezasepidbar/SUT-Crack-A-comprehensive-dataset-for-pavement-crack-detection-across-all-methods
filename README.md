@@ -1,9 +1,12 @@
 # SUT-Crack: A comprehensive dataset for pavement crack detection across all methods
+
 This dataset includes high-quality images of asphalt pavement cracks. Special attention was given during its creation to ensure it covers various crack detection challenges, including oil stains, shadows, and diverse lighting conditions.
 
 📄 This dataset was published as a data article in Data in Brief, Volume 51, Article 109642 (October 2023).
 
 📌 DOI: https://doi.org/10.1016/j.dib.2023.109642
+
+Authors: Mohammadreza Sabouri, Alireza Sepidbar
 
 
 
@@ -13,6 +16,8 @@ The SUT-Crack dataset (Sharif University of Technology Crack Dataset) presents a
 
 You can find the dataset at the following link: https://data.mendeley.com/datasets/gsbmknrhkv/6
 
+
 ![4](https://github.com/user-attachments/assets/32bca701-d7a4-402b-b867-c447a6fa9873)
 
 
+![1](https://github.com/user-attachments/assets/0af135f7-81ac-4267-8236-0daaf4960d90)
